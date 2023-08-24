@@ -104,4 +104,3 @@ print(f"{Y_Predict}")
 
 # Calculate the accuracy (req5)
 print(f"Accuracy : {LogisticReg.calc_accuracy(Y_Test, Y_Predict) * 100}%")
-
